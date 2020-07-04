@@ -61,7 +61,7 @@ experiences:
       details: |
         My daily routine involves maintaining and developing the backend servers and
         sdk for client devices, to allow payments to be secure, fast and seamless using Redis and Sockets.
-        - pull requests and versions' continuous integration, from dev to sandbox to production.
+        - Pull requests and versions' continuous integration, from dev to sandbox to production.
         - 'Manager Access' to the company's AWS backend servers and hosting of the company angular pages.
         - Maintain the backend servers using NestJs Framework written in type script.
         - Deliver Native SDK's to Android, IOS, React Native, Flutter, Windows, Pie, Linux and Wordpress.
