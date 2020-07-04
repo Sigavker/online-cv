@@ -123,14 +123,14 @@ skills:
       - name: Javascript & jQuery & TypeScript
         level: 98%
 
-      - name: Dart
-        level: 92%
-
       - name: Angular
         level: 68%
 
       - name: HTML5 & CSS
         level: 85%
+
+      - name: Dart
+        level: 92%
 
       - name: Sketch & Photoshop
         level: 98%
