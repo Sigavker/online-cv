@@ -2,6 +2,9 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
+# Doron CV
+# URL: https://benelisha.github.io/online-cv/
+
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
@@ -99,10 +102,6 @@ projects:
       - title: TuneYou Radio
         link: "https://play.google.com/store/apps/details?id=com.tuneyou.radio&hl=en"
         tagline: "Free Radio Stations with alarm clock, in app purchases."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
 publications:
     title: Publications
