@@ -12,19 +12,19 @@ sidebar:
     # Profile information
     name: Matan Sigavker
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile_picture.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: Sigavker@gmail.com
     phone: +972 54 931 0809
     # website: blog.webjeda.com #do not add http://
-    linkedin: doronbenelisha
-    github: benelisha
+    linkedin: matan-sigavker-4a275216b/
+#    github: benelisha
     # telegram: lionsRoar
     # gitlab: Benlish
     # twitter: '@webjeda'
-    facebook: Doron Ben Elisha
-    stack-overflow: 3736907/Benlish # Number/Username, e.g. 123456/alandoe
+    facebook: Matan Sigavker
+#    stack-overflow: 3736907/Benlish # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -33,7 +33,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
+        level: Good Level
 
     interests:
       - item: Creating indie games
@@ -91,10 +91,13 @@ projects:
     intro: >
       Solo Developed.
     assignments:
-      - title: Nirvana - Game Of Life
+      - title: "Migrating Office 365 to Office 365 with a new Domain"
         link: "https://artrayd.com/nirvana-game/"
-        tagline: "Partnering with content writer and graphic designer,
-         the game reached a million users in the first year."
+        tagline: " o Change UPN To AD users (PS)
+                   o Change Proxy Address To AD users (PS)
+                   o Import Csv File Of AD Users To 365 (PS)
+                   o Import Contact Of Old Users Addresses To 365
+                   And Forward To The New Address (PS)"
 
       - title: TuneYou Radio
         link: "https://play.google.com/store/apps/details?id=com.tuneyou.radio&hl=en"
