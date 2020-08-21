@@ -36,37 +36,33 @@ sidebar:
         level: Good Level
 
     interests:
-      - item: Creating indie games
-        link: https://artrayd.com/nirvana-game/
+      - item: Playing video games
 
-      - item: Playing indie & Nintendo games
-        link:
+      - item: Eating out side
 
-      - item: Cooking wannabe Michelin meals
-        link:
-
-      - item: Biking for landscapes
-        link:
 
 career-profile:
     title: Vision
     summary: |
-      Ambitious and experienced developer,
-      highly motivated to develop the field and to re-invent the idea behind well designed UI combined with smart UX.
+      Ambitious and experienced IT Manager, highly motivated to self-study and develop the field.
 
 experiences:
-    - role: Lead full stack developer
-      time: 2019 - Present
-      company: SensePass, Tel Aviv, Israel.
+    - role: System Admin – IT Manager
+      time: 2018 - Present
+      company: Consist Systems LTD, Israel.
       details: |
-        My daily routine involves maintaining and developing the backend servers and
-        sdk for client devices, to allow payments to be secure, fast and seamless using Redis and Sockets.
-        - Pull requests and versions' continuous integration, from dev to sandbox to production.
-        - 'Manager Access' to the company's AWS backend servers and hosting of the company angular pages.
-        - Maintain the backend servers using NestJs Framework written in type script.
-        - Deliver Native SDK's to Android, IOS, React Native, Flutter, Windows, Pie, Linux and Wordpress.
-        - Harvest the powers of components like Bluetooth and Nfc in many devices and frameworks.
-        - Maintain the admin office and databases (SQL with Postgres visual tool).
+        Few words about the job (I was in charge of bla bla)
+        - Management and maintenance of virtual and physical servers.
+        - Daily work with Active directory, exchange servers, VMware, Veeam backup, Trend
+          Micro, FortiGate, Cisco and HP Switch and more.
+        - Deployment of software and Windows upgrade using SCCM.
+        - Upgrade ESXi 6.5 to 6.7, Veeam backup 9.5 to 10, Windows 7 to 10.
+        - Work with Antivirus trend micro and email filtering (SMG, Trend Micro, Spam Filter
+          Office 365)
+        - Network troubleshooting.
+        - Capable of working with Linux commands.
+        - Management of Cisco and HP switches.
+
     - role: Android Developer
       time: 2016 - 2019
       company: Ha-Poalim Bank, Tel Aviv, Israel.
@@ -79,29 +75,18 @@ experiences:
           - Working with tools like Jira, Jenkin and Git with latest Android Studio and SDK versions.
           - Completed courses on secure Android development, as mandated by the Central Bank of Israel.
           - Complete application building from scratch to deployment.
-    - role: Android Developer
-      time: 2013 - 2016
-      company: 365Scores, Ramat Gan, Israel.
-      details: |
-        Real time sport application. I was in charge of converting an entire outsourced code into in-house.
-          - Rewrite outsourced code into in-house, eliminating ANR & Crashes.
-          - Contributed to art and design work.
+
 projects:
     title: Projects
     intro: >
       Solo Developed.
     assignments:
       - title: "Migrating Office 365 to Office 365 with a new Domain"
-        link: "https://artrayd.com/nirvana-game/"
-        tagline: " o Change UPN To AD users (PS)
-                   o Change Proxy Address To AD users (PS)
-                   o Import Csv File Of AD Users To 365 (PS)
-                   o Import Contact Of Old Users Addresses To 365
-                   And Forward To The New Address (PS)"
+      - title: " o Change UPN To AD users (PS)"
+      - title: " o Change Proxy Address To AD users (PS)"
+      - title: " o Import Csv File Of AD Users To 365 (PS)"
+      - title: " o Import contect of old users addresses to 365 and forward to the new address (PS)"
 
-      - title: TuneYou Radio
-        link: "https://play.google.com/store/apps/details?id=com.tuneyou.radio&hl=en"
-        tagline: "Free radio stations with alarm clock and in-app purchases."
 
 publications:
     title: Publications
