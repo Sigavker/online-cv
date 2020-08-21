@@ -79,13 +79,12 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Solo Developed.
+      Migrating Office 365 to Office 365 with a new Domain.
     assignments:
-      - title: "Migrating Office 365 to Office 365 with a new Domain"
-      - title: " o Change UPN To AD users (PS)"
-      - title: " o Change Proxy Address To AD users (PS)"
-      - title: " o Import Csv File Of AD Users To 365 (PS)"
-      - title: " o Import contect of old users addresses to 365 and forward to the new address (PS)"
+      - title: "Change UPN To AD users (PS)"
+      - title: "Change Proxy Address To AD users (PS)"
+      - title: "Import Csv File Of AD Users To 365 (PS)"
+      - title: "Import contect of old users addresses to 365 and forward to the new address (PS)"
 
 
 #publications:
