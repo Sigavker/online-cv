@@ -10,7 +10,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Matan Sigavker
+    name: Matan Sigavker Test 1
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -76,6 +76,14 @@ experiences:
           - Completed courses on secure Android development, as mandated by the Central Bank of Israel.
           - Complete application building from scratch to deployment.
 
+education:
+    - role: System Admin – IT Manager
+      time: 2018 – 2019
+      company: John Bryce.
+      details: |
+        Course Microsoft Network Management (MCSA\CCNA) 
+
+
 projects:
     title: Projects
     intro: >
@@ -87,15 +95,14 @@ projects:
       - title: "Import contect of old users addresses to 365 and forward to the new address (PS)"
 
 
-#publications:
-#    title: Publications
-#    intro: |
-#      A few articles written by the Goldtusks team.
-#    papers:
-#      - title: How we got to a beta with zero experience in game development.
-#        link: "https://www.moddb.com/news/1-devlog-nirvana-how-we-got-to-beta-with-zero-experience-in-game-development"
-#        authors: Dimitry Jokov, Shay Eliav, Doron Ben Elisha.
-#
+
+diploma:
+    title: Diplima
+    papers:
+      - title: Microsoft Certified Systems Administrator (MCSA): Windows Server 2012 - Certified 2019.
+        link: "https://drive.google.com/drive/folders/1Lnz7ZXPiMqWV23Wi__odvxMDRAYuJ7Z3"
+
+
 #      - title: "how we used facebook ads for choosing game design style"
 #        link: "https://medium.com/nirvanagame/how-we-used-facebook-ads-for-choosing-game-design-style-d60e2b6fa952"
 #        authors: Dimitry Jokov, Doron Ben Elisha, Shay Eliav.
